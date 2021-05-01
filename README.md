@@ -1,0 +1,3 @@
+- Install Vundle: https://github.com/VundleVim/Vundle.vim
+- Install FZF: https://github.com/junegunn/fzf.vim
+- Install fd and tree: brew install fd tree
